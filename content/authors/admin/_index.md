@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a wife of Peixuan Yuan
+bio: 
 
 interests:
 - Artificial Intelligence
@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:daisydy.zhao@rutgers.edu".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.hk/citations?user=5VmN5gUAAAAJ&hl=zh-CN
