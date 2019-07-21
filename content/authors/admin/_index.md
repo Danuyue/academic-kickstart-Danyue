@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Danyue (Daisy) Zhao
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Nutritional Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Hong Kong Polytechnic University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a wife of Peixuan Yuan
 
 interests:
 - Artificial Intelligence
