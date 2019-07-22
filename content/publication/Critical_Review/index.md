@@ -31,7 +31,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://www.biorxiv.org/content/10.1101/278762v2.abstract"
+url: "http://arxiv.org/pdf/1512.04133v1"
 #url_pdf: 
 #url_code: ''
 #url_dataset: ''
