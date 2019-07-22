@@ -27,4 +27,13 @@ date_format = "Jan 2006"
   description = """
   """
 
+[[experience]]
+  title = "Research Assistant "
+  company = "The University of Hong Kong"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2012-09-01"
+  date_end = "2016-10-01"
+  description = """
+  """
 +++
