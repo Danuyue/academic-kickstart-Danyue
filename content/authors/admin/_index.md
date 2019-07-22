@@ -21,10 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- eat
+- drink
+- sleep
 education:
   courses:
   - course: PhD in Food & Nutritional Sciences
