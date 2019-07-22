@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Danyue (Daisy) Zhao
+name: Danyue (Daisy)
 
 # Username (this should match the folder name)
 authors:
