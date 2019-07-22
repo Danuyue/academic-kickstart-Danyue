@@ -20,6 +20,8 @@ publication_types: ["2"]
 publication: "*Critical Reviews in Food Science and Nutrition*"
 publication_short: ""
 
+link = "https://www.biorxiv.org/content/10.1101/278762v2.abstract"
+
 abstract: 
 
 # Summary. An optional shortened abstract.
