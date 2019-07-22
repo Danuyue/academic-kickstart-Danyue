@@ -22,8 +22,6 @@ publication_types = ["1"]
 publication = ""
 publication_short = "to appear in Nucleic Acids Research"
 
-link = "https://www.biorxiv.org/content/10.1101/278762v2.abstract"
-
 # Abstract.
 abstract = ""
 
@@ -49,9 +47,9 @@ tags = []
 projects = ["internal-project"]
 
 # Links (optional).
-#url_pdf = "https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fa%2Fcs.washington.edu%2Fsuinlee%2FCloudControl_Hiranuma_EtAl_FINAL.pdf%3Fattredirects%3D0%26d%3D1&sa=D&sntz=1&usg=AFQjCNEXxZID2Plyi46_pzJ_x-5eNAmBOQ"
-url_preprint = "https://www.biorxiv.org/content/10.1101/278762v2.abstract"
-url_code = "https://github.com/suinleelab/AIControl.jl"
+url_pdf = "https://www.biorxiv.org/content/10.1101/278762v2.abstract"
+#url_preprint = "https://www.biorxiv.org/content/10.1101/278762v2.abstract"
+#url_code = "https://github.com/suinleelab/AIControl.jl"
 #url_dataset = "#"
 #url_project = ""
 #url_slides = "#"
