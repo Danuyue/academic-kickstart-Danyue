@@ -1,78 +1,63 @@
-+++
-title = "AIControl: Replacing matched control experiments with machine learning improves ChIP-seq peak identification"
-date = 2019-03-09T00:00:00
+---
+title: "An example journal article"
+authors:
+- admin
+- Robert Ford
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["N. Hiranuma", "S. Lundberg", "S. Lee"]
-
-
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference paper
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-publication_types = ["2"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
-# Publication name and optional abbreviated version.
-publication = ""
-publication_short = "to appear in Nucleic Acids Research"
+# Publication name and optional abbreviated publication name.
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-link = "https://www.biorxiv.org/content/10.1101/278762v2.abstract"
-
-# Abstract.
-abstract = ""
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# Digital Object Identifier (DOI)
-doi = ""
+tags:
+- Source Themes
+featured: false
 
-# Is this a featured publication? (true/false)
-featured = false
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["internal-project"]
-
-# Links (optional).
-#url_pdf = "https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fa%2Fcs.washington.edu%2Fsuinlee%2FCloudControl_Hiranuma_EtAl_FINAL.pdf%3Fattredirects%3D0%26d%3D1&sa=D&sntz=1&usg=AFQjCNEXxZID2Plyi46_pzJ_x-5eNAmBOQ"
-url_preprint = "https://www.biorxiv.org/content/10.1101/278762v2.abstract"
-url_code = "https://github.com/suinleelab/AIControl.jl"
-#url_dataset = "#"
-#url_project = ""
-#url_slides = "#"
-#url_video = "https://www.youtube.com/watch?v=wjd1G5bu_TY"
-#url_poster = "#"
-#url_source = "#"
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{name = "Custom Link", url = "http://example.org"}]
-
-# Does this page contain LaTeX math? (true/false)
-#math = true
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-+++
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
